@@ -1,0 +1,11 @@
+artifact_path: C:\Users\ASUS\Desktop\research_cs
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.1
+mlflow_version: 2.7.1
+model_uuid: a4e23d4d17a04429a5bfa6c85432e8e0
+run_id: 133e476e336f4cd2ac0ac0e16060db44
+utc_time_created: '2023-10-11 16:38:37.251907'
